@@ -1,0 +1,6 @@
+{
+  "name": "Korean Box Office Viewer",
+  "description": "한국 극장가 일일 박스오피스 순위 및 상세 영화 정보를 실시간으로 조회하는 서비스입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
